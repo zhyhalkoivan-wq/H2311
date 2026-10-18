@@ -36,4 +36,3 @@ def ramka(message, symbol):
 
 ramka("Я люблю Python", "*")
 
-
